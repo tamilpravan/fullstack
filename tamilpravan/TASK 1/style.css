@@ -1,0 +1,17 @@
+body{
+    margin-left: 100px;
+    margin-right: 200px;
+    align-items: center;
+    
+}
+h1{
+    color: blue;
+    font-size: 30px;
+    align-content: end;
+}
+table ,tr ,td ,th {
+    width: 20px;
+    border: 1px double;
+    padding: 10px;
+    margin: 20px;
+}
